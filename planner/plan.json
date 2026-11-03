@@ -1,0 +1,1058 @@
+{
+ "profile": {
+  "owner": "kvnloo",
+  "has_company_domain": false,
+  "has_website": false,
+  "incorporated": "unknown",
+  "has_vc_or_accelerator": false,
+  "has_funding": false,
+  "country": "US",
+  "willing_to_add_payment_method": false,
+  "spend_money": "never_without_approval"
+ },
+ "plan": [
+  {
+   "program": "Google for Startups Cloud Program",
+   "url": "https://cloud.google.com/startup",
+   "category": "Cloud Infrastructure",
+   "bucket": "ask_first",
+   "entry_usd": 100000,
+   "max_usd": 350000,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "GitHub for Startups",
+   "url": "https://github.com/enterprise/startups",
+   "category": "Developer Tools & Observability",
+   "bucket": "ask_first",
+   "entry_usd": 10000,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?",
+    "referral/partner only?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "OpenAI for Startups",
+   "url": "https://openai.com/",
+   "category": "AI / ML & LLM APIs",
+   "bucket": "ask_first",
+   "entry_usd": 2500,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Contextual AI",
+   "url": "https://contextual.ai/",
+   "category": "AI / ML & LLM APIs",
+   "bucket": "ask_first",
+   "entry_usd": 1500,
+   "max_usd": 1500,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Microsoft for Startups Founders Hub",
+   "url": "https://www.microsoft.com/en-us/startups",
+   "category": "Cloud Infrastructure",
+   "bucket": "ask_first",
+   "entry_usd": 1000,
+   "max_usd": 150000,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Notion for Startups",
+   "url": "https://www.notion.so/startups",
+   "category": "Developer Tools & Observability",
+   "bucket": "ask_first",
+   "entry_usd": 500,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Stripe Atlas",
+   "url": "https://stripe.com/atlas",
+   "category": "Incorporation & Operations",
+   "bucket": "ask_first",
+   "entry_usd": 500,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [
+    "downstream credits"
+   ],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Oracle for Startups",
+   "url": "https://www.oracle.com/startup/",
+   "category": "Cloud Infrastructure",
+   "bucket": "ask_first",
+   "entry_usd": 300,
+   "max_usd": 100000,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": "2026-11-02"
+  },
+  {
+   "program": "IBM Cloud for Startups",
+   "url": "https://www.ibm.com/cloud",
+   "category": "Cloud Infrastructure",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?",
+    "referral/partner only?"
+   ],
+   "unlocks": [
+    "watsonx AI access"
+   ],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "DigitalOcean Hatch",
+   "url": "https://www.digitalocean.com/hatch",
+   "category": "Cloud Infrastructure",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": 100000,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Alibaba Cloud Startup Catalyst",
+   "url": "https://www.alibabacloud.com/",
+   "category": "Cloud Infrastructure",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": 120000,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Scaleway",
+   "url": "https://www.scaleway.com/",
+   "category": "Cloud Infrastructure",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Vultr",
+   "url": "https://www.vultr.com/",
+   "category": "Cloud Infrastructure",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": 120000,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Akamai (Linode) Rise",
+   "url": "https://www.linode.com/",
+   "category": "Cloud Infrastructure",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "NVIDIA Inception",
+   "url": "https://www.nvidia.com/en-us/startups/",
+   "category": "AI / ML & LLM APIs",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?"
+   ],
+   "unlocks": [
+    "AWS Activate"
+   ],
+   "domain_risk": true,
+   "verified_on": "2026-11-02"
+  },
+  {
+   "program": "Hugging Face",
+   "url": "https://huggingface.co/",
+   "category": "AI / ML & LLM APIs",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Cohere",
+   "url": "https://cohere.com/",
+   "category": "AI / ML & LLM APIs",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "ElevenLabs",
+   "url": "https://elevenlabs.io/",
+   "category": "AI / ML & LLM APIs",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Perplexity",
+   "url": "https://www.perplexity.ai/",
+   "category": "AI / ML & LLM APIs",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "AssemblyAI",
+   "url": "https://www.assemblyai.com/",
+   "category": "AI / ML & LLM APIs",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": 150000,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Baseten",
+   "url": "https://www.baseten.co/",
+   "category": "AI / ML & LLM APIs",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": 27500,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Arize AI",
+   "url": "https://arize.com/",
+   "category": "AI / ML & LLM APIs",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "GitLab for Startups",
+   "url": "https://about.gitlab.com/solutions/startups/",
+   "category": "Developer Tools & Observability",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Sentry for Startups",
+   "url": "https://sentry.io/for/startups/",
+   "category": "Developer Tools & Observability",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Vercel",
+   "url": "https://vercel.com/",
+   "category": "Developer Tools & Observability",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "JetBrains",
+   "url": "https://www.jetbrains.com/",
+   "category": "Developer Tools & Observability",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Linear",
+   "url": "https://linear.app/",
+   "category": "Developer Tools & Observability",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "PostHog",
+   "url": "https://posthog.com/startups",
+   "category": "Developer Tools & Observability",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Muscula",
+   "url": "https://muscula.com/",
+   "category": "Developer Tools & Observability",
+   "bucket": "ask_first",
+   "entry_usd": 0,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "MongoDB for Startups",
+   "url": "https://www.mongodb.com/startups",
+   "category": "Databases & Data Platforms",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Redis for Startups",
+   "url": "https://redis.io/",
+   "category": "Databases & Data Platforms",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": 25000,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Neo4j Aura",
+   "url": "https://neo4j.com/",
+   "category": "Databases & Data Platforms",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Pinecone",
+   "url": "https://www.pinecone.io/",
+   "category": "Databases & Data Platforms",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Upstash",
+   "url": "https://upstash.com/",
+   "category": "Databases & Data Platforms",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "YugabyteDB Aeon",
+   "url": "https://www.yugabyte.com/",
+   "category": "Databases & Data Platforms",
+   "bucket": "ask_first",
+   "entry_usd": 0,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Brex",
+   "url": "https://www.brex.com/",
+   "category": "Fintech & Banking (Credit Aggregators)",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Ramp",
+   "url": "https://ramp.com/",
+   "category": "Fintech & Banking (Credit Aggregators)",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Mercury",
+   "url": "https://mercury.com/",
+   "category": "Fintech & Banking (Credit Aggregators)",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Mailchimp",
+   "url": "https://mailchimp.com/",
+   "category": "Sales, Marketing & CRM",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Amplitude for Startups",
+   "url": "https://amplitude.com/startups",
+   "category": "Sales, Marketing & CRM",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Customer.io",
+   "url": "https://customer.io/",
+   "category": "Sales, Marketing & CRM",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Intercom for Startups",
+   "url": "https://www.intercom.com/early-stage",
+   "category": "Sales, Marketing & CRM",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Zendesk for Startups",
+   "url": "https://www.zendesk.com/startups/",
+   "category": "Sales, Marketing & CRM",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "1Password for Startups",
+   "url": "https://1password.com/",
+   "category": "Compliance & Security",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Twilio for Startups",
+   "url": "https://www.twilio.com/en-us/startups",
+   "category": "Communications & Customer Data",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Twilio Segment for Startups",
+   "url": "https://segment.com/industry/startups/",
+   "category": "Communications & Customer Data",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [
+    "AWS",
+    "Intercom",
+    "Amplitude"
+   ],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Clerky",
+   "url": "https://www.clerky.com/",
+   "category": "Incorporation & Operations",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "legal entity",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Carta",
+   "url": "https://carta.com/",
+   "category": "Incorporation & Operations",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Y Combinator",
+   "url": "https://www.ycombinator.com/",
+   "category": "Accelerators & Incubators",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Techstars",
+   "url": "https://www.techstars.com/",
+   "category": "Accelerators & Incubators",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Antler",
+   "url": "https://www.antler.co/",
+   "category": "Accelerators & Incubators",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "500 Global",
+   "url": "https://500.co/",
+   "category": "Accelerators & Incubators",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "AWS Generative AI Accelerator",
+   "url": "https://aws.amazon.com/startups/",
+   "category": "Accelerators & Incubators",
+   "bucket": "ask_first",
+   "entry_usd": null,
+   "max_usd": 1000000,
+   "blocked_by": [],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Anthropic Startup Program",
+   "url": "https://www.anthropic.com/",
+   "category": "AI / ML & LLM APIs",
+   "bucket": "blocked",
+   "entry_usd": 25000,
+   "max_usd": 100000,
+   "blocked_by": [
+    "VC/accelerator affiliation",
+    "a funding round"
+   ],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Estuary for Startups",
+   "url": "https://estuary.dev/startup/",
+   "category": "Databases & Data Platforms",
+   "bucket": "blocked",
+   "entry_usd": 2000,
+   "max_usd": 2000,
+   "blocked_by": [
+    "a funding round"
+   ],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "AWS Activate",
+   "url": "https://aws.amazon.com/activate/",
+   "category": "Cloud Infrastructure",
+   "bucket": "blocked",
+   "entry_usd": 1000,
+   "max_usd": 5000,
+   "blocked_by": [
+    "a payment method (owner approval)",
+    "a paid product/bank account (owner approval)"
+   ],
+   "unknowns": [
+    "company domain + email?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": "2026-11-02"
+  },
+  {
+   "program": "Cloudflare for Startups",
+   "url": "https://www.cloudflare.com/forstartups/",
+   "category": "Cloud Infrastructure",
+   "bucket": "blocked",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [
+    "VC/accelerator affiliation"
+   ],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Datadog for Startups",
+   "url": "https://www.datadoghq.com/partner/startups/",
+   "category": "Developer Tools & Observability",
+   "bucket": "blocked",
+   "entry_usd": null,
+   "max_usd": 100000,
+   "blocked_by": [
+    "a funding round"
+   ],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Clerk for Startups",
+   "url": "https://clerk.com/startups",
+   "category": "Developer Tools & Observability",
+   "bucket": "blocked",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [
+    "a funding round"
+   ],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Stripe Atlas",
+   "url": "https://stripe.com/atlas",
+   "category": "Fintech & Banking (Credit Aggregators)",
+   "bucket": "blocked",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [
+    "a payment method (owner approval)"
+   ],
+   "unknowns": [
+    "company domain + email?",
+    "legal entity"
+   ],
+   "unlocks": [
+    "many programs"
+   ],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "HubSpot for Startups",
+   "url": "https://www.hubspot.com/startups",
+   "category": "Sales, Marketing & CRM",
+   "bucket": "blocked",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [
+    "VC/accelerator affiliation"
+   ],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Vanta",
+   "url": "https://www.vanta.com/",
+   "category": "Compliance & Security",
+   "bucket": "blocked",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [
+    "VC/accelerator affiliation"
+   ],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  },
+  {
+   "program": "Drata",
+   "url": "https://drata.com/",
+   "category": "Compliance & Security",
+   "bucket": "blocked",
+   "entry_usd": null,
+   "max_usd": null,
+   "blocked_by": [
+    "VC/accelerator affiliation"
+   ],
+   "unknowns": [
+    "company domain + email?",
+    "a payment method (owner approval)?"
+   ],
+   "unlocks": [],
+   "domain_risk": true,
+   "verified_on": null
+  }
+ ]
+}

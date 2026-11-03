@@ -1,0 +1,22 @@
+{
+ "_doc": "Facts read from official pages. Overrides list-text requirements in plan.py. Add one entry per verified program with the URL and date read.",
+ "AWS Activate": {
+  "verified_on": "2026-11-02", "source": "https://aws.amazon.com/startups/credits",
+  "requirements": {"self_serve": true, "requires_company_domain_email": "unknown", "requires_vc_or_accelerator": false,
+   "requires_funding": false, "requires_payment_method": true, "requires_paid_product": true,
+   "entry_tier_usd": 1000, "max_tier_usd": 5000},
+  "note": "Founders (self-funded) tier: start $1K, up to $5K. Needs an AWS account on the Paid Tier plan (card on file) and a Builder ID made 'with your professional email'. Portfolio tier ($200K) needs an Activate Provider Org ID (VC/accelerator)."
+ },
+ "NVIDIA Inception": {
+  "verified_on": "2026-11-02", "source": "https://www.nvidia.com/en-us/startups/",
+  "requirements": {"self_serve": true, "requires_funding": false, "requires_payment_method": false, "requires_vc_or_accelerator": false,
+   "requires_company_domain_email": "unknown", "requires_website": "unknown", "requires_incorporation": "unknown",
+   "entry_tier_usd": null, "max_tier_usd": null},
+  "note": "Free, any funding stage, no fees/deadlines/cohorts. Benefits are training, discounts and partner cloud credits, not a fixed cash credit. Application asks for business and product details."
+ },
+ "Oracle for Startups": {
+  "verified_on": "2026-11-02", "source": "https://www.oracle.com/cloud/free/",
+  "requirements": {"self_serve": true, "requires_payment_method": "unknown", "requires_vc_or_accelerator": false, "entry_tier_usd": 300},
+  "note": "Oracle Cloud Free Tier (not the startup program): $300 for 30 days plus Always Free services, including Arm Ampere A1 compute (24/7 k3s node candidate)."
+ }
+}

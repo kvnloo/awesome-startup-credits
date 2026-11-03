@@ -1,0 +1,15 @@
+# Owner constraints for the credits planner. "unknown" means: ask before filing.
+# Edit this file, not the planner, when a constraint changes.
+owner: kvnloo
+has_company_domain: false        # no company domain or domain email yet
+has_website: false               # no public product site yet (portfolio/GitHub only)
+incorporated: unknown            # LLC / C-corp?
+has_vc_or_accelerator: false
+has_funding: false
+country: US
+willing_to_add_payment_method: false   # never without explicit per-program approval
+spend_money: never_without_approval
+# Things that cost money but unlock many programs; the planner lists them, never buys them.
+paid_unlocks_considered:
+  - company domain + email (~$10-15/yr)
+  - incorporation (Stripe Atlas ~$500, or a state LLC)
